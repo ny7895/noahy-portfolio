@@ -680,10 +680,9 @@ footer .wrap{display:flex; flex-wrap:wrap; justify-content:space-between; gap:10
         <div class="wrap">
           <div class="sec-head"><span class="label">On
               repeat</span><h2>What I've been listening to.</h2><p
-              id="musicIntro">My top tracks from the last 4 weeks, pulled from
+              id="musicIntro">My top tracks from <span id="musicRange">the last 4 weeks</span>, pulled from
               the Spotify API every Monday by a GitHub Actions workflow. No
-              servers and no cost. Yes there may be some strange tracks.. My
-              daughters request alot of songs in the car</p></div>
+              servers and no cost. Fair warning: some of these are my daughters car requests.</p></div>
           <div class="music-grid rv" id="musicGrid"></div>
           <div class="music-foot">
             <div class="flow" aria-label="How this section updates"><span
@@ -1050,7 +1049,7 @@ function renderMusic(data) {
     s.classList.add("ph"); s.style.background = `linear-gradient(135deg, hsl(${hue(i)} 65% 48%), hsl(${(hue(i) + 50) % 360} 60% 32%))`; s.textContent = s.dataset.l;
   }));
   const range = RANGE_TEXT[data.range] || RANGE_TEXT.short_term;
-  $("#musicIntro").textContent = `My top tracks from ${range}, pulled from the Spotify API every Monday by a GitHub Actions workflow. No servers and no cost.`;
+  $("#musicRange").textContent = range;  // only the time range changes; the rest of the intro stays as written
   $("#musicUpdated").textContent = data.updated ? `Updated ${esc(new Date(data.updated).toLocaleDateString(undefined, { month: "short", day: "numeric", year: "numeric" }))}` : "";
 }
 (async () => {
