@@ -1,0 +1,118 @@
+{
+  "updated": "2026-10-30T22:46:37+00:00",
+  "range": "short_term",
+  "tracks": [
+    {
+      "rank": 1,
+      "name": "Strategy",
+      "artists": [
+        "TWICE"
+      ],
+      "album": "STRATEGY",
+      "image": "https://i.scdn.co/image/ab67616d00001e02adb0c0f9f3434f4f03954b67",
+      "url": "https://open.spotify.com/track/2BkTPMr1v6Fr6JJwc4V7R5",
+      "duration_ms": 166773
+    },
+    {
+      "rank": 2,
+      "name": "Canalla",
+      "artists": [
+        "Romeo Santos",
+        "El Chaval de la Bachata"
+      ],
+      "album": "Utopia",
+      "image": "https://i.scdn.co/image/ab67616d00001e024c5c305418fa5fb2f5f002f5",
+      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS",
+      "duration_ms": 226681
+    },
+    {
+      "rank": 3,
+      "name": "Thriller",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "image": "https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC",
+      "duration_ms": 358807
+    },
+    {
+      "rank": 4,
+      "name": "One",
+      "artists": [
+        "Metallica"
+      ],
+      "album": "…And Justice for All (Remastered)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fe896727e3db1027ed72d885",
+      "url": "https://open.spotify.com/track/02xhLoVqpGmOqvolgrwM8w",
+      "duration_ms": 446145
+    },
+    {
+      "rank": 5,
+      "name": "Monster Mash",
+      "artists": [
+        "Bobby \"Boris\" Pickett"
+      ],
+      "album": "Sinister Stomp",
+      "image": "https://i.scdn.co/image/ab67616d00001e02fa5f42e3c99ee31d26f52406",
+      "url": "https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R",
+      "duration_ms": 194063
+    },
+    {
+      "rank": 6,
+      "name": "El Elfo Sin Dueño - Corrido Mágico",
+      "artists": [
+        "El Gauvi"
+      ],
+      "album": "Corridos Mágicos, Vol. 1",
+      "image": "https://i.scdn.co/image/ab67616d00001e02828d09b56a275bd4b12ca8fd",
+      "url": "https://open.spotify.com/track/0W40ZkQzHRvkuYQunZJHpG",
+      "duration_ms": 145959
+    },
+    {
+      "rank": 7,
+      "name": "Ghost",
+      "artists": [
+        "Badflower"
+      ],
+      "album": "OK, I'M SICK",
+      "image": "https://i.scdn.co/image/ab67616d00001e021f879311e1aa1316242ee4c6",
+      "url": "https://open.spotify.com/track/7w09r53aPON8ZUvEAnPe94",
+      "duration_ms": 259519
+    },
+    {
+      "rank": 8,
+      "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "I Knew It, I Knew You (From \"Toy Story 5\")",
+      "image": "https://i.scdn.co/image/ab67616d00001e02a35a1d4983e2b4fd0094f910",
+      "url": "https://open.spotify.com/track/5uPaqMMt59KGrdKIitDRqa",
+      "duration_ms": 178186
+    },
+    {
+      "rank": 9,
+      "name": "Wonder",
+      "artists": [
+        "Jay Prince"
+      ],
+      "album": "WONDER",
+      "image": "https://i.scdn.co/image/ab67616d00001e02394ff249a2f5a991e610520a",
+      "url": "https://open.spotify.com/track/67sZGo41W4hL2OuYNr3Asf",
+      "duration_ms": 155466
+    },
+    {
+      "rank": 10,
+      "name": "Ella Y Yo - Featuring Don Omar",
+      "artists": [
+        "Aventura",
+        "Don Omar"
+      ],
+      "album": "God's Project",
+      "image": "https://i.scdn.co/image/ab67616d00001e027ccd22cc18d53dd443c69d43",
+      "url": "https://open.spotify.com/track/6G4U9avyBNEfP0fAIduev3",
+      "duration_ms": 267786
+    }
+  ]
+}
