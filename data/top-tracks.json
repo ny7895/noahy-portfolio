@@ -1,18 +1,18 @@
 {
-  "updated": "2026-11-09T23:25:55+00:00",
+  "updated": "2026-11-16T23:23:18+00:00",
   "range": "short_term",
   "tracks": [
     {
       "rank": 1,
-      "name": "Canalla",
+      "name": "Solar Eclipse (feat. Don Toliver)",
       "artists": [
-        "Romeo Santos",
-        "El Chaval de la Bachata"
+        "Drake",
+        "Don Toliver"
       ],
-      "album": "Utopia",
-      "image": "https://i.scdn.co/image/ab67616d00001e024c5c305418fa5fb2f5f002f5",
-      "url": "https://open.spotify.com/track/4XEXrp37kZXpQTB2r5vWbS",
-      "duration_ms": 226681
+      "album": "HABIBTI (FOMO)",
+      "image": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
+      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
+      "duration_ms": 218388
     },
     {
       "rank": 2,
@@ -27,15 +27,14 @@
     },
     {
       "rank": 3,
-      "name": "Solar Eclipse (feat. Don Toliver)",
+      "name": "String By",
       "artists": [
-        "Drake",
-        "Don Toliver"
+        "Mack Geiger"
       ],
-      "album": "HABIBTI (FOMO)",
-      "image": "https://i.scdn.co/image/ab67616d00001e022685b70af798b4f272c00d8a",
-      "url": "https://open.spotify.com/track/4IAWZw00ZI9DLKDjesx86u",
-      "duration_ms": 218388
+      "album": "Dying In This House",
+      "image": "https://i.scdn.co/image/ab67616d00001e022b56798ec8fb40cbbfbd7775",
+      "url": "https://open.spotify.com/track/15FU4ICHvgp0vYpsP5JFpT",
+      "duration_ms": 195000
     },
     {
       "rank": 4,
@@ -50,14 +49,15 @@
     },
     {
       "rank": 5,
-      "name": "String By",
+      "name": "Over And Over",
       "artists": [
-        "Mack Geiger"
+        "Nelly",
+        "Tim McGraw"
       ],
-      "album": "Dying In This House",
-      "image": "https://i.scdn.co/image/ab67616d00001e022b56798ec8fb40cbbfbd7775",
-      "url": "https://open.spotify.com/track/15FU4ICHvgp0vYpsP5JFpT",
-      "duration_ms": 195000
+      "album": "Suit",
+      "image": "https://i.scdn.co/image/ab67616d00001e026ff5d0f68b2677a4fe953c12",
+      "url": "https://open.spotify.com/track/2b8QQqf8Vwb7bfz22ja8Fk",
+      "duration_ms": 253933
     },
     {
       "rank": 6,
@@ -72,28 +72,17 @@
     },
     {
       "rank": 7,
-      "name": "Thriller",
+      "name": "Dancing In The Dark - From The \"Home\" Soundtrack",
       "artists": [
-        "Michael Jackson"
+        "Rihanna"
       ],
-      "album": "Thriller",
-      "image": "https://i.scdn.co/image/ab67616d00001e0232a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/2LlQb7Uoj1kKyGhlkBf9aC",
-      "duration_ms": 358807
+      "album": "Home (Original Motion Picture Soundtrack)",
+      "image": "https://i.scdn.co/image/ab67616d00001e0260ada2ff679d2a9b584eac67",
+      "url": "https://open.spotify.com/track/3nlVjrlLMJHC7Flf9impf9",
+      "duration_ms": 223040
     },
     {
       "rank": 8,
-      "name": "El Elfo Sin Dueño - Corrido Mágico",
-      "artists": [
-        "El Gauvi"
-      ],
-      "album": "Corridos Mágicos, Vol. 1",
-      "image": "https://i.scdn.co/image/ab67616d00001e02828d09b56a275bd4b12ca8fd",
-      "url": "https://open.spotify.com/track/0W40ZkQzHRvkuYQunZJHpG",
-      "duration_ms": 145959
-    },
-    {
-      "rank": 9,
       "name": "Wonder",
       "artists": [
         "Jay Prince"
@@ -104,15 +93,28 @@
       "duration_ms": 155466
     },
     {
-      "rank": 10,
-      "name": "Jefe De Jefes",
+      "rank": 9,
+      "name": "Wildest Dreams",
       "artists": [
-        "Los Tigres Del Norte"
+        "Taylor Swift"
       ],
-      "album": "Jefe De Jefes",
-      "image": "https://i.scdn.co/image/ab67616d00001e025b49dff71181aec60581d45d",
-      "url": "https://open.spotify.com/track/0pzSFbqT7lNJJdvmTvGS66",
-      "duration_ms": 214773
+      "album": "1989",
+      "image": "https://i.scdn.co/image/ab67616d00001e02b7e976d2b35c767f9012cb72",
+      "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
+      "duration_ms": 220440
+    },
+    {
+      "rank": 10,
+      "name": "DO IT",
+      "artists": [
+        "¥$",
+        "Kanye West",
+        "Ty Dolla $ign"
+      ],
+      "album": "VULTURES 1",
+      "image": "https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980",
+      "url": "https://open.spotify.com/track/1oNaDXXu9I4UCJ8Fh0Hfjg",
+      "duration_ms": 225023
     }
   ]
 }
