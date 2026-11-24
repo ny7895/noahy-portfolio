@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T23:23:18+00:00",
+  "updated": "2026-11-24T01:40:03+00:00",
   "range": "short_term",
   "tracks": [
     {
@@ -27,6 +27,19 @@
     },
     {
       "rank": 3,
+      "name": "WOOPAAA REMIX (ft. Gucci Mane)",
+      "artists": [
+        "GORILLA GLUE",
+        "LIL NAKUR",
+        "Gucci Mane"
+      ],
+      "album": "WOOPAAA REMIX (ft. Gucci Mane)",
+      "image": "https://i.scdn.co/image/ab67616d00001e023b699e49c9acd1aa93953a06",
+      "url": "https://open.spotify.com/track/0rISdDVPqJORTa6vkxbu2Q",
+      "duration_ms": 202246
+    },
+    {
+      "rank": 4,
       "name": "String By",
       "artists": [
         "Mack Geiger"
@@ -37,18 +50,29 @@
       "duration_ms": 195000
     },
     {
-      "rank": 4,
-      "name": "Monster Mash",
+      "rank": 5,
+      "name": "Star67",
       "artists": [
-        "Bobby \"Boris\" Pickett"
+        "Drake"
       ],
-      "album": "Sinister Stomp",
-      "image": "https://i.scdn.co/image/ab67616d00001e02fa5f42e3c99ee31d26f52406",
-      "url": "https://open.spotify.com/track/4uUVNaxpS4zYcXkTrrRp6R",
-      "duration_ms": 194063
+      "album": "If You're Reading This It's Too Late",
+      "image": "https://i.scdn.co/image/ab67616d00001e022090f4f6cc406e6d3c306733",
+      "url": "https://open.spotify.com/track/2mmUoyPxzbxehpfm1TpTRK",
+      "duration_ms": 294973
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "name": "Wonder",
+      "artists": [
+        "Jay Prince"
+      ],
+      "album": "WONDER",
+      "image": "https://i.scdn.co/image/ab67616d00001e02394ff249a2f5a991e610520a",
+      "url": "https://open.spotify.com/track/67sZGo41W4hL2OuYNr3Asf",
+      "duration_ms": 155466
+    },
+    {
+      "rank": 7,
       "name": "Over And Over",
       "artists": [
         "Nelly",
@@ -60,7 +84,7 @@
       "duration_ms": 253933
     },
     {
-      "rank": 6,
+      "rank": 8,
       "name": "I Knew It, I Knew You - From \"Toy Story 5\"",
       "artists": [
         "Taylor Swift"
@@ -71,7 +95,7 @@
       "duration_ms": 178186
     },
     {
-      "rank": 7,
+      "rank": 9,
       "name": "Dancing In The Dark - From The \"Home\" Soundtrack",
       "artists": [
         "Rihanna"
@@ -82,18 +106,7 @@
       "duration_ms": 223040
     },
     {
-      "rank": 8,
-      "name": "Wonder",
-      "artists": [
-        "Jay Prince"
-      ],
-      "album": "WONDER",
-      "image": "https://i.scdn.co/image/ab67616d00001e02394ff249a2f5a991e610520a",
-      "url": "https://open.spotify.com/track/67sZGo41W4hL2OuYNr3Asf",
-      "duration_ms": 155466
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "name": "Wildest Dreams",
       "artists": [
         "Taylor Swift"
@@ -102,19 +115,6 @@
       "image": "https://i.scdn.co/image/ab67616d00001e02b7e976d2b35c767f9012cb72",
       "url": "https://open.spotify.com/track/3fVnlF4pGqWI9flVENcT28",
       "duration_ms": 220440
-    },
-    {
-      "rank": 10,
-      "name": "DO IT",
-      "artists": [
-        "¥$",
-        "Kanye West",
-        "Ty Dolla $ign"
-      ],
-      "album": "VULTURES 1",
-      "image": "https://i.scdn.co/image/ab67616d00001e029c654f315df05ae7c6ec8980",
-      "url": "https://open.spotify.com/track/1oNaDXXu9I4UCJ8Fh0Hfjg",
-      "duration_ms": 225023
     }
   ]
 }
